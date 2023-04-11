@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "User1",
+      "email": "user1@yahoo.com",
+      "password": "user1pass",
+      "dateCreated": "01/01/2001",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "username": "User2",
+      "email": "user2@yahoo.com",
+      "password": "user2pass",
+      "dateCreated": "02/02/2002",
+      "isActive": true
+    }
+  ]
+}
